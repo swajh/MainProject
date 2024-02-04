@@ -1,0 +1,6 @@
+[submodule "SubModule_UT_DevOps"]
+	path = SubModule_UT_DevOps
+	url = https://github.com/swajh/MainProject.git
+[submodule "MainProject2_Submodule"]
+	path = MainProject2_Submodule
+	url = https://github.com/swajh/MainProject2.git
