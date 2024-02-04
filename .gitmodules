@@ -1,0 +1,3 @@
+[submodule "SubModule_UT_DevOps"]
+	path = SubModule_UT_DevOps
+	url = https://github.com/swajh/MainProject.git
